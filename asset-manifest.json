@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.5f241456.chunk.css",
+    "main.js": "/my-app/static/js/main.69225033.chunk.js",
+    "main.js.map": "/my-app/static/js/main.69225033.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.56cbb5f7.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.56cbb5f7.js.map",
+    "static/js/2.e4e587ff.chunk.js": "/my-app/static/js/2.e4e587ff.chunk.js",
+    "static/js/2.e4e587ff.chunk.js.map": "/my-app/static/js/2.e4e587ff.chunk.js.map",
+    "static/js/3.5c1314e5.chunk.js": "/my-app/static/js/3.5c1314e5.chunk.js",
+    "static/js/3.5c1314e5.chunk.js.map": "/my-app/static/js/3.5c1314e5.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "static/css/main.5f241456.chunk.css.map": "/my-app/static/css/main.5f241456.chunk.css.map",
+    "static/js/2.e4e587ff.chunk.js.LICENSE.txt": "/my-app/static/js/2.e4e587ff.chunk.js.LICENSE.txt",
+    "static/media/Wake-up-meme.9e000270.jpg": "/my-app/static/media/Wake-up-meme.9e000270.jpg",
+    "static/media/Zoom-meme-2.0d5601a1.jpg": "/my-app/static/media/Zoom-meme-2.0d5601a1.jpg",
+    "static/media/Zoom-meme.bafb53e1.png": "/my-app/static/media/Zoom-meme.bafb53e1.png",
+    "static/media/back_to_the_future_bernie.bacc4932.jpeg": "/my-app/static/media/back_to_the_future_bernie.bacc4932.jpeg",
+    "static/media/endgame.0fd6bf6d.jpg": "/my-app/static/media/endgame.0fd6bf6d.jpg",
+    "static/media/et_bernie.cbaebcbd.jpeg": "/my-app/static/media/et_bernie.cbaebcbd.jpeg",
+    "static/media/fun.96c44a06.jpg": "/my-app/static/media/fun.96c44a06.jpg",
+    "static/media/game-meme.f1d916c3.png": "/my-app/static/media/game-meme.f1d916c3.png",
+    "static/media/got_bernie.23edb21d.jpeg": "/my-app/static/media/got_bernie.23edb21d.jpeg",
+    "static/media/hot-cool-meme.7dd19fd6.jpg": "/my-app/static/media/hot-cool-meme.7dd19fd6.jpg",
+    "static/media/jeep-meme.3a4ca10a.jpg": "/my-app/static/media/jeep-meme.3a4ca10a.jpg",
+    "static/media/logo.6ce24c58.svg": "/my-app/static/media/logo.6ce24c58.svg",
+    "static/media/nuggets.9bea0905.jpg": "/my-app/static/media/nuggets.9bea0905.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56cbb5f7.js",
+    "static/js/2.e4e587ff.chunk.js",
+    "static/css/main.5f241456.chunk.css",
+    "static/js/main.69225033.chunk.js"
+  ]
+}
